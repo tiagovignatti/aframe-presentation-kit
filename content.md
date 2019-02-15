@@ -1,3 +1,90 @@
+<!-- .slide: data-background="media/img/jobsimulator-blur.jpg" -->
+
+<div class="talk-title">
+<p>Ciência da Computação & Informática Biomédica</p>
+  <h1>Mercado de Trabalho</h1>
+  
+  <p class="talk-info">
+    @tiagovignatti | <a href="https://www.imersys.com">Imersys</a> | ex-Intel, ex-Nokia, ex-UFPR
+  </p>
+</div>
+
+<!-- NOTES -->
+- Onboard web developers into the 3D and VR world with easy-to-use tools
+- Prototype WebVR experiences faster
+
+------
+
+# 2001, "Antes"
+
+<!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
+
+<!-- NOTES -->
+- Ask how many have tried VR.
+- Virtual reality is a technology platform that transports you to realistic, interactive, immersive 3D environments
+- It's the next platform, will change how we work + play + communicate digitally, face of society
+
+---
+
+<div class="image-row">
+  <div><img data-src="media/img/google-cardboard.png"></div>
+  <div><img data-src="media/img/google-daydream.png"></div>
+  <div><img data-src="media/img/samsung-gearvr.png"></div>
+</div>
+
+<div class="image-row">
+  <div><img data-src="media/img/oculus-rift.png"></div>
+  <div><img data-src="media/img/playstation-vr.png"></div>
+  <div><img data-src="media/img/htc-vive.png"></div>
+</div>
+
+<!-- NOTES -->
+- Backed by the largest corporations in the world, everyone wants in
+- Range from cheap to expensive, tethered and untethered, controllers, tracking
+- HTC Vive with Steam currently offers the most compelling experiences, but never know
+- See a lot of different devices, systems, platforms competing against each other...
+
+---
+
+## Friction of VR Ecosystems
+
+<div class="captioned-image-row">
+  <div>
+    <img data-src="media/img/gatekeeper.png">
+    <i>Gatekeepers</i>
+  </div>
+  <div>
+    <img data-src="media/img/downloads-installs.png">
+    <i>Installs</i>
+  </div>
+  <div>
+    <img data-src="media/img/closed-door.png">
+    <i>Closed</i>
+  </div>
+</div>
+
+<!-- NOTES -->
+- App stores and corporations control distribution: can take down or block content
+- Downloads / installs are a barrier to consumption: small business pages
+- Closed ecosystem: proprietary engines, steep learning curves, siloed experiences, fragmentation
+- We want VR to be successful, so we want a platform without these points of friction. The answer is WebVR...
+
+------
+
+# 2002 - 2009, "Durante"
+
+<!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
+
+------
+
+<!-- .slide: data-background="media/img/aframe.jpg" -->
+
+<div class="talk-title">
+  <h1>Backup Slides</h1>
+</div>
+
+------
+
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">

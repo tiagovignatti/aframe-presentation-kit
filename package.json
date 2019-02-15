@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/aframevr/aframe-presentation-kit#readme",
   "devDependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "npm": "^6.8.0"
   }
 }
