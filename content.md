@@ -49,7 +49,6 @@
 
 ## Qual era a motivação? Money
 
-<!-- .slide: data-background="media/img/.jpg" -->
 <div>
   <i>"informática é o futuro e parece que dá dinheiro"</i>
 </div>
@@ -57,7 +56,6 @@
 
 ## Qual era a motivação? Estudo
 
-<!-- .slide: data-background="media/img/" -->
 <div>
   <i>"gosto de matemática; quero ser pesquisador"</i>
 </div>
@@ -65,7 +63,6 @@
 
 ## Qual era a motivação? Corporação
 
-<!-- .slide: data-background="media/img/" -->
 <div>
   <i>"tenho vontade de trabalhar numa empresa multinacional de tecnologia"</i>
 </div>
@@ -287,7 +284,7 @@
 
 <div class="slide__boilerplate">
   <p>
-<i>“85% das profissões que existirão em 2030 ainda não foram criadas; as outras 15% restantes serão chatas”</i>, Igor Sales, CEO Imersys
+<i>“85% das profissões que existirão em 2030 ainda não foram criadas; as outras 15% restantes serão chatas”</i>, <a href="https://twitter.com/@Igor_Sales">@Igor_Sales</a>, CEO Imersys
 </p>
 </div>
 ---
@@ -313,8 +310,6 @@
 
 ---
 
-## A-Frame
-
-Just `<ctrl>+<alt>+i`.
+## Just `<ctrl>+<alt>+i`
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
