@@ -71,9 +71,11 @@
 </div>
 ---
 
-## Qual é a motivação <b>agora</b>?
+## Qual é a motivação agora?
 
 ---
+
+<!-- .slide: data-background="media/img/imersys-vision.jpg" -->
 
 ## Qual é a motivação agora?
 
@@ -107,6 +109,7 @@
 ## Primeira semana de aula...
 
 ---
+<!-- .slide: data-background="media/img/doom.png" -->
 
 
 ## Primeira semana de aula... eu não sabia programar!
@@ -239,7 +242,6 @@
   <div><img data-src="media/img/bett.jpg"></div>
   <div><img data-src="media/img/ifsp.jpg"></div>
 </div>
----
 
 ------
 
@@ -303,9 +305,6 @@
 <h2 style="text-align: left">Obrigado!</h2>
 &nbsp;
 
-<div>
-  <p style="text-align: left"> (aberto para discussões)</p>
-</div>
 &nbsp;
 <div>
   <p style="font-size: 18px; text-align: left"><a href="https://twitter.com/tiagovignatti">@tiagovignatti</a></p>
@@ -316,137 +315,6 @@
 
 ## A-Frame
 
-<!-- .slide: data-background="media/img/inspector.png" data-state="state--bg-dark" -->
-
 Just `<ctrl>+<alt>+i`.
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
-
-------
-
-<!-- .slide: data-background="media/img/header.png" -->
-
-# A-Frame community
-
-https://aframe.io/blog/
-
----
-
-<!-- .slide: data-background="media/img/apainter.gif" -->
-
-# Art - *A-Painter*
-
-@mozillavr
-
----
-
-<!-- .slide: data-background="media/img/syria.gif" -->
-
-# Journalism - *Fear of the Sky*
-
-Amnesty International UK
-
----
-
-<!-- .slide: data-background="media/img/mars.jpg" -->
-
-# Journalism - *Journey to Mars*
-
-The Washington Post
-
----
-
-<!-- .slide: data-background="media/img/citybuilder.gif" -->
-
-# Sandbox - *City Builder*
-
-@kfarr
-
----
-
-<!-- .slide: data-background="media/img/adit.gif" -->
-
-# Data Visualization - *Adit*
-
-@datatitian
-
----
-
-<!-- .slide: data-background="media/img/a-blast.gif" -->
-
-# Gaming - *A-Blast*
-
-@mozillavr
-
----
-
-<!-- .slide: data-background="media/img/ux.gif" -->
-
-# Prototyping - *UI Widgets*
-
-@whoyee
-
----
-
-<!-- .slide: data-background="media/img/math.gif" -->
-
-# Mathematics - *MathworldVR*
-
-@sleighdogs
-
----
-
-<!-- .slide: data-background="media/img/ar.gif" -->
-
-# AR - *AR.js + A-Frame*
-
-@jerome_etienne
-
----
-
-<!-- .slide: data-background="media/img/webvrstudio.png" -->
-
-# Tools - *WebVR Studio*
-
-@webvrstudio
-
----
-
-<!-- .slide: data-background-video="media/video/livetour.mp4" data-background-video-loop="true" -->
-
-# Real Estate - *Live Tour*
-
-iStaging
-
----
-
-<!-- .slide: data-background="media/img/cadavr.gif" -->
-
-# Education - *CadaVR*
-
-@drryanjames
-
----
-
-# aframe.io
-
-<div class="captioned-image-row">
-  <div>
-    <img data-src="media/img/github.png">
-    <i>180+ contributors 6000+ Stargazers</i>
-  </div>
-  <div>
-    <img data-src="media/img/slack.png">
-    <i>4000+ members on Slack</i>
-  </div>
-  <div>
-    <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of featured projects</i>
-  </div>
-</div>
-
-<!-- NOTES -->
-- Open source and inclusive project
-- Most work done on GitHub
-- Active community on Slack to share projects, interact, hang out, seek help
-- Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
