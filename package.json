@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My past experiences on the 'job market' to CS freshmen at UFPR.",
   "scripts": {
-    "start": "live-server"
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/aframevr/aframe-presentation-kit#readme",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "http-server": "^0.11.0"
   },
   "dependencies": {
     "npm": "^6.8.0"
